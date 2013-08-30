@@ -1,4 +1,4 @@
-=== Minotar ===
+=== Gittip Widget ===
 Contributors: clone1018
 Donate link: https://gittip.com/clone1018
 Tags: gittip, widget, giving, helping

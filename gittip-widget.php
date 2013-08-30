@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Gittip Widget
-Plugin URI: http://github.com/gittip/gittip-wordpress-widget
+Plugin URI: https://github.com/clone1018/gittip-widget
 Description: Display your Gittip widget on your wordpress blog.
 Version: 1.0
 Author: <a href="http://axxim.net/">Luke Strickland</a>
